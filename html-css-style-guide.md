@@ -421,3 +421,17 @@ selectors { font-size:12px; }
 selectors { font-size:12px; }
 .nav-item { height:20px; }
 ```
+###常用css文件命名
+/* 推荐  */
+*1 主要的 master.css
+*2 模块 module.css
+*3 基本共用 base.css
+*4 布局，版面 layout.css
+*5 主题 themes.css
+*6 专栏 columns.css
+*7 文字 font.css
+*8 表单 forms.css
+*9 补丁 mend.css
+*10 打印 print.css
+
+
